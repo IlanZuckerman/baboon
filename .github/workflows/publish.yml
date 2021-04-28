@@ -1,4 +1,4 @@
-name: CI - Publish to quay.io
+name: CI - Publish to quay.io 
 
 on:
   push:
